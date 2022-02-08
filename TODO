@@ -1,0 +1,11 @@
+# v0.0.1
+[ ] List some fake headlines on the screen in terminal
+
+# v0.0.2
+[ ] be able to cursor up and down the headlines with j and k
+
+# v0.0.3
+[ ] Open a URL when you press enter on a headline
+
+# v0.0.4
+[ ] Sync headlines from a news website
